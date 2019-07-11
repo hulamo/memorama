@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memorama/static/css/main.dba943a5.chunk.css",
+    "main.js": "/memorama/static/js/main.14b1acf5.chunk.js",
+    "main.js.map": "/memorama/static/js/main.14b1acf5.chunk.js.map",
+    "runtime~main.js": "/memorama/static/js/runtime~main.b56c1681.js",
+    "runtime~main.js.map": "/memorama/static/js/runtime~main.b56c1681.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/memorama/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/memorama/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/memorama/index.html",
+    "precache-manifest.764035c50047d602c1bcd58b29f476bd.js": "/memorama/precache-manifest.764035c50047d602c1bcd58b29f476bd.js",
+    "service-worker.js": "/memorama/service-worker.js",
+    "static/css/main.dba943a5.chunk.css.map": "/memorama/static/css/main.dba943a5.chunk.css.map"
+  }
+}
